@@ -2,9 +2,7 @@
 
 A new Flutter project. This is just an expirimental app to test some of the many features from Flutter + Dart.
 
-Feel free to clone
-
-P.S -> I didn't do any validation on the input. Feel free to play with the code and mold it to your liking.
+P.S. I didn't do any validation on the input. Feel free to play with the code and mold it to your liking.
 
 ## Getting Started
 
